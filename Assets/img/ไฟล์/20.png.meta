@@ -121,7 +121,217 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: 20_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 640
+        width: 273
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a6cc078df5818409c067276c041d67
+      internalID: 45693192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 636
+        width: 280
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22f55b76a478ae44b221075cae558d9
+      internalID: 2033231788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_2
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 638
+        width: 281
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae8b3a837844c84f97f30b8b1477a66
+      internalID: -1605402439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_3
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 638
+        width: 277
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678379ccbb119974892f344b3d21a398
+      internalID: 109812630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_4
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 637
+        width: 283
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f5bb2345cefba42a1c8e696a469716
+      internalID: 1719068604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 285
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e39122f8311af4686dde65c2bd526c
+      internalID: 1112823739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 285
+        width: 282
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e8509b030fab34d8bea4147488a234
+      internalID: 2004553857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_7
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 286
+        width: 278
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab38e88f853068044a1cd6c359579dbd
+      internalID: 1404946011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_8
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 285
+        width: 283
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd713ab370d58004f8b19b4fe2da2dc9
+      internalID: 500914619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_9
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 285
+        width: 274
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df681bf5e2eb754498f76a1d33e8369
+      internalID: 895756749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +342,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      20_0: 45693192
+      20_1: 2033231788
+      20_2: -1605402439
+      20_3: 109812630
+      20_4: 1719068604
+      20_5: 1112823739
+      20_6: 2004553857
+      20_7: 1404946011
+      20_8: 500914619
+      20_9: 895756749
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
